@@ -136,6 +136,7 @@ When using GitHub logos, please be sure to follow the
 [gcm-usage]: https://github.com/git-ecosystem/git-credential-manager/blob/release/docs/usage.md
 [gcm-windows-broker]: https://github.com/git-ecosystem/git-credential-manager/blob/release/docs/windows-broker.md
 [git-tools-credential-storage]: https://git-scm.com/book/en/v2/Git-Tools-Credential-Storage
+[gcm-foo]: FOO.md
 [github]: https://github.com
 [github-ssh]: https://help.github.com/en/articles/connecting-to-github-with-ssh
 [github-logos]: https://github.com/logos
